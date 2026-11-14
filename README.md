@@ -1,4 +1,3 @@
 # This is a sample project for Maven based Jenkins demo
 
-testing
-testing again!!!
+Editing this should create a new job in Jenkins!
